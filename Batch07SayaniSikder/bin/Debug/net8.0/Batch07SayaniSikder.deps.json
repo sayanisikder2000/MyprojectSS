@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Batch07SayaniSikder/1.0.0": {
+        "runtime": {
+          "Batch07SayaniSikder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Batch07SayaniSikder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
